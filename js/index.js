@@ -1,4 +1,4 @@
-var feedURL = "https://www.metaweather.com/api/location/search/?query=london";
+var feedURL = "https://www.metaweather.com/api/location/17044/";
 
 $(document).on('pagecreate', '#feedPage', function(event) {
 	
